@@ -1,2 +1,6 @@
+<<<<<<< pavan
 Sai
 Pavan
+=======
+sai pavan ku
+>>>>>>> local
